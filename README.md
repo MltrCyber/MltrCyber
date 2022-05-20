@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=HARY-IT&description=Make%20Your%20Heart%20Comfortable&image=https://www.haryonokudadiri.pw/Galeri1/photos/Haryono/1628388776828.png&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=0.5&site=https://haryonokudadiri.biz.id&instagram=haryonokudadiri&github=MltrCyber)
+![My card name](https://cardivo.vercel.app/api?name=HARY-IT&description=Make%20Your%20Heart%20Comfortable&image=https://avatars.githubusercontent.com/u/52839806?s=48&v=4&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=0.5&site=https://haryonokudadiri.biz.id&instagram=haryonokudadiri&github=MltrCyber)
 
 <div align="center">
   My Programming Language
@@ -18,20 +18,10 @@
 
   You can reach me here:<br><br>
   <a href="mailto:haryonokudadiri71@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/email-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/haryonokudadiri" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <br>
-  <details>
-    <summary>My stats in Github</summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=MltrCyber&show_icons=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=MltrCyber">
-  </details>
-  
-  <details>
-    <summary>My Wakatime breakdown</summary>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MltrCyber&layout=compact">
-  </details>
 </div>
