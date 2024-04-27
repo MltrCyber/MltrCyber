@@ -1,4 +1,4 @@
-![HARY-IT](https://cardivo.vercel.app/api?name=Satya%20Wikananda&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
+![HARY-IT](https://cardivo.vercel.app/api?name=Haryono%20Kudadiri&description=Hi,i%27am%20a%20Backend%20Web%20Developer.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/MltrCyber/MltrCyber/main/picture-3.jpg&backgroundColor=%23ecf0f1&instagram=haryonokudadiri&linkedin=haryonokudadiri&github=MltrCyber&twitter=haryonokudir&pattern=leaf&colorPattern=%23eaeaea)
 <div align="center">
   My Programming Language
   <br><br>
