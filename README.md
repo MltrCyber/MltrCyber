@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=HARY-IT&description=Make%20Your%20Heart%20Comfortable&image=[[https://haryit.github.io/logo.png](https://avatars.githubusercontent.com/u/81818407?v=4)]([https://haryit.github.io/logo.png](https://avatars.githubusercontent.com/u/52839806?s=48))&v=4&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=0.5&site=https://haryonokudadiri.us&instagram=haryonokudadiri&github=MltrCyber)
+![My card name](https://cardivo.vercel.app/api?name=HARY-IT&description=Make%20Your%20Heart%20Comfortable&image=[[https://haryit.github.io/logo.png](https://avatars.githubusercontent.com/u/81818407)]([https://haryit.github.io/logo.png](https://avatars.githubusercontent.com/u/52839806))&v=4&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=0.5&site=https://haryonokudadiri.us&instagram=haryonokudadiri&github=MltrCyber)
 
 <div align="center">
   My Programming Language
